@@ -1,9 +1,12 @@
 import React from "react";
+// eslint-disable-next-line
 import Login from "./Login";
 
+// eslint-disable-next-line
 var isLoggedIn = true;
 
 function App() {
+  // eslint-disable-next-line
   const date = new Date();
   const hour = 17; // date.getHours();
 
